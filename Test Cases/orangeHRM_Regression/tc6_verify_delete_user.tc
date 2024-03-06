@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>tc6_verify_delete_user</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>33d682ac-8ade-4d95-b108-4f0060345721</testCaseGuid>
+</TestCaseEntity>

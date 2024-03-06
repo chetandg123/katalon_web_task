@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>tc10_verify_logout_button</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ca9a5ed0-9020-4077-a0b3-6352b3c0263a</testCaseGuid>
+</TestCaseEntity>

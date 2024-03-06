@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>tc7_verify_dual_login_module</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ec80e15f-e7e0-4372-b02b-1d89fa116be7</testCaseGuid>
+</TestCaseEntity>
